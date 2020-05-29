@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "title": "HTML",
+      "image": "assets/img/image.gif",
+      "content": "HTML은 HyperTextMarkLanguage 라구!",
+      "author": "민준이",
+      "likeCount": 12
+    },
+    {
+      "title": "나는 농담곰이 좋아!",
+      "image": "assets/img/image.gif",
+      "content": "농담곰은 너무 귀여워!~",
+      "author": "신우",
+      "likeCount": 1
+    },
+    {
+      "title": "저는 강인이에요",
+      "image": "assets/img/image.gif",
+      "content": "I`am Strength",
+      "author": "강인",
+      "likeCount": 101
+    },
+    {
+      "title": "수빈",
+      "image": "assets/img/image.gif",
+      "content": "저는 멋쟁이 수빈이에요!",
+      "author": "수빈",
+      "likeCount": 329
+    },
+    {
+      "title": "혜빈",
+      "image": "assets/img/image.gif",
+      "content": "자바스크립트 너무 재밌어요~@!!!",
+      "author": "혜빈",
+      "likeCount": 100000
+    }
+  ]
+}
