@@ -8,4 +8,4 @@
 <hr>
 
 ### 예제 스크린샷
-<img src="assets/img/capture.png"/>
+<img src="/assets/img/capture.PNG"/>
